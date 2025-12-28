@@ -1,7 +1,7 @@
 # Terms of Service
 **Effective Date:** 12/27/2025
 **Owner:** Nibs Studio LLC
-**Contact:** nibsstudio@proton.me
+**Contact:** support@nibsstudio.com
 
 ## 1. Acceptance
 By using the app, you agree to these Terms and our Privacy Policy.
@@ -44,4 +44,4 @@ We may update these Terms and will revise the “Effective Date” above when we
 These Terms are governed by the laws of the State of New Mexico, USA, without regard to conflict-of-law principles.
 
 ## 14. Contact
-Questions: nibsstudio@proton.me
+Questions: support@nibsstudio.com
