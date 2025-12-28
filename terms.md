@@ -7,7 +7,8 @@
 By using the app, you agree to these Terms and our Privacy Policy.
 
 ## 2. Eligibility
-You must be legally able to enter into this agreement and not barred by applicable law.
+You must be legally able to enter into this agreement and not barred by applicable law. You must be at least 18 to use the app. The app is intended for adults seeking to quit nicotine.
+
 
 ## 3. Accounts
 No account or login is required. If accounts are added later, additional terms will apply.
