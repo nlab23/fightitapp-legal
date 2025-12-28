@@ -1,7 +1,7 @@
 # Privacy Policy
 **Effective Date:** 12/27/2025
 **Owner:** Nibs Studio LLC
-**Contact:** nibsstudio@proton.me
+**Contact:** support@nibsstudio.com
 
 ## Data We Collect
 - **App data:** Craving logs, settings, and game progress are stored locally on your device. We do not run our own servers for this data.
@@ -30,10 +30,10 @@ No other permissions are required for core features.
 - Uninstall the app to remove local data.
 
 ## Children
-This app is intended for adults seeking to quit nicotine and is not directed to users under 18. It is not designed for children under 13. If you are a parent/guardian and have concerns, contact us at nibsstudio@proton.me
+This app is intended for adults seeking to quit nicotine and is not directed to users under 18. It is not designed for children under 13. If you are a parent/guardian and have concerns, contact us at support@nibsstudio.com
 
 ## Changes
 - We may update this policy and will revise the “Effective Date” above when we do.
 
 ## Contact
-- Questions or requests: nibsstudio@proton.me
+- Questions or requests: support@nibsstudio.com
