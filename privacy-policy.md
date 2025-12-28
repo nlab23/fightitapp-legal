@@ -36,4 +36,4 @@ This app is intended for adults seeking to quit nicotine and is not directed to 
 - We may update this policy and will revise the “Effective Date” above when we do.
 
 ## Contact
-- Questions or requests: [Contact Email]
+- Questions or requests: nibsstudio@proton.me
